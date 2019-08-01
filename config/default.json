@@ -1,0 +1,8 @@
+{
+  "name": "Backend Template",
+  "jwtPrivateKey": "",
+  "db": "mongodb://localhost/TemplateDB",
+  "mail": {
+    "password": ""
+  }
+}

@@ -1,0 +1,7 @@
+{
+  "name": "Development Backend Template",
+  "db": "mongodb://localhost/TemplateDB",
+  "mail": {
+    "host": "mail.development.com"
+  }
+}
