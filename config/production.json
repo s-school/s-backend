@@ -1,6 +1,5 @@
 {
   "name": "Produciton Backend Template",
-  "db": "mongodb://localhost/TemplateDB",
   "mail": {
     "host": "mail.production.com"
   }
