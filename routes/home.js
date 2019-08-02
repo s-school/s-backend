@@ -2,7 +2,7 @@ const express = require("express");
 const router = express.Router();
 
 router.get("/", (req, res) => {
-  res.send("You're in Backend template");
+  res.send("Welcome to s-school backend");
 });
 
 module.exports = router;
