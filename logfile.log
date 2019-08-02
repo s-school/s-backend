@@ -350,3 +350,7 @@
 {"level":"info","message":"Connected to mongodb://localhost/TemplateDB_Test...","timestamp":"2019-08-01T20:26:21.302Z"}
 {"level":"info","message":"Listening on port 3000...","timestamp":"2019-08-01T20:26:22.668Z"}
 {"level":"info","message":"Connected to mongodb://localhost/TemplateDB_Test...","timestamp":"2019-08-01T20:26:23.686Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2019-08-02T10:12:36.696Z"}
+{"level":"info","message":"Connected to mongodb://localhost/TemplateDB_Test...","timestamp":"2019-08-02T10:12:37.773Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2019-08-02T10:12:39.232Z"}
+{"level":"info","message":"Connected to mongodb://localhost/TemplateDB_Test...","timestamp":"2019-08-02T10:12:40.248Z"}
