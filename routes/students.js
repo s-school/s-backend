@@ -1,6 +1,8 @@
 const auth = require("../middlewares/auth");
 const validateBody = require("../middlewares/validateBody");
 const role = require("../middlewares/role");
+const validateObjectId = require("../middlewares/validateObjectId");
+
 const { Student, validate } = require("../models/student");
 const express = require("express");
 const router = express.Router();
@@ -24,15 +26,11 @@ router.get("/", async (req, res) => {
   res.send(students);
 });
 
-router.get("/:id", async (req, res, next) => {
-  try {
-    const student = await Student.findById(req.params.id).populate(
-      "courses",
-      "name"
-    );
-  } catch (e) {
-    next(e);
-  }
+router.get("/:id", validateObjectId, async (req, res, next) => {
+  const student = await Student.findById(req.params.id).populate(
+    "courses",
+    "name"
+  );
 
   if (!student) return res.status(404).send("Student not found");
 
@@ -55,7 +53,7 @@ router.post(
 
 router.put(
   "/:id",
-  [auth, role(roles.put), validateBody(validate)],
+  [auth, role(roles.put), validateObjectId, validateBody(validate)],
   async (req, res) => {
     const { error } = validate(req.body);
     if (error) return res.status(400).send(error.details[0].message);
@@ -70,12 +68,16 @@ router.put(
   }
 );
 
-router.delete("/:id", [auth, role(roles.delete)], async (req, res) => {
-  const student = await Student.findByIdAndRemove(req.params.id);
+router.delete(
+  "/:id",
+  [auth, role(roles.delete), validateObjectId],
+  async (req, res) => {
+    const student = await Student.findByIdAndRemove(req.params.id);
 
-  if (!student) return res.status(404).send("Student not found");
+    if (!student) return res.status(404).send("Student not found");
 
-  res.send(student);
-});
+    res.send(student);
+  }
+);
 
 module.exports = router;

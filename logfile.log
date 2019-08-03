@@ -354,3 +354,12 @@
 {"level":"info","message":"Connected to mongodb://localhost/TemplateDB_Test...","timestamp":"2019-08-02T10:12:37.773Z"}
 {"level":"info","message":"Listening on port 3000...","timestamp":"2019-08-02T10:12:39.232Z"}
 {"level":"info","message":"Connected to mongodb://localhost/TemplateDB_Test...","timestamp":"2019-08-02T10:12:40.248Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2019-08-03T08:44:35.043Z"}
+{"level":"info","message":"Connected to mongodb://localhost/TemplateDB...","timestamp":"2019-08-03T08:44:36.095Z"}
+{"message":"student is not defined","stack":"ReferenceError: student is not defined\n    at router.get (C:\\Users\\amine\\Desktop\\web\\Backend-template\\routes\\students.js:37:3)\n    at process._tickCallback (internal/process/next_tick.js:68:7)","level":"error","timestamp":"2019-08-03T09:09:06.393Z"}
+{"message":"student is not defined","stack":"ReferenceError: student is not defined\n    at router.get (C:\\Users\\amine\\Desktop\\web\\Backend-template\\routes\\students.js:37:3)\n    at process._tickCallback (internal/process/next_tick.js:68:7)","level":"error","timestamp":"2019-08-03T09:09:20.448Z"}
+{"message":"student is not defined","stack":"ReferenceError: student is not defined\n    at router.get (C:\\Users\\amine\\Desktop\\web\\Backend-template\\routes\\students.js:37:3)\n    at process._tickCallback (internal/process/next_tick.js:68:7)","level":"error","timestamp":"2019-08-03T09:09:33.162Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2019-08-03T09:11:02.063Z"}
+{"level":"info","message":"Connected to mongodb://localhost/TemplateDB...","timestamp":"2019-08-03T09:11:03.111Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2019-08-03T09:13:53.494Z"}
+{"level":"info","message":"Connected to mongodb://localhost/TemplateDB...","timestamp":"2019-08-03T09:13:54.546Z"}
