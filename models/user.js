@@ -39,8 +39,9 @@ const userSchema = new mongoose.Schema({
     ],
     required: true,
     validate: {
-      validator: function(v) {
-        return v && v.length > 0;
+      validator: function(r) {
+        console.log(r);
+        return r && r.length > 0;
       },
       message: "User roles not provided"
     }
@@ -63,9 +64,10 @@ function validateUser(user) {
       .required(),
     email: Joi.string()
       .email()
-      //   .regex(/^[A-Za-z0-9_]{3,}@[A-Za-z0-9]{2,}\.[A-Za-z0-9]{2,}$/)
       .required(),
-    roles: Joi.array().required(),
+    roles: Joi.array()
+      .min(1)
+      .required(),
     password: Joi.string()
       .min(8)
       .required()
