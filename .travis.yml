@@ -6,11 +6,11 @@ cache:
 install:
   - npm install
 
-after_failure: echo -e "------------- after failure ------------ "
+after_failure: echo  "------------- after failure ------------ "
 
-after_success: echo -e "------------- after success ------------ "
+after_success: echo  "------------- after success ------------ "
 
-before_deploy: echo -e "------------- before deploy ------------ "
+before_deploy: echo  "------------- before deploy ------------ "
 
 deploy:
   provider: heroku
