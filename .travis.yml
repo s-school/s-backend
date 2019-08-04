@@ -3,6 +3,15 @@ node_js:
 - 10.1.0
 cache:
 - npm
+install:
+  - npm ci
+
+after_failure: echo -e "------------- after failure ------------ "
+
+after_success: echo -e "------------- after success ------------ "
+
+before_deploy: echo -e "------------- before deploy ------------ "
+
 deploy:
   provider: heroku
   api_key:
