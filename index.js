@@ -1,6 +1,9 @@
 const winston = require("winston");
 const express = require("express");
+const cors = require("cors");
 const app = express();
+
+app.use(cors());
 
 require("./startup/logging")();
 require("./startup/config")();
@@ -14,7 +17,7 @@ require("./startup/prod")(app);
 //   debug("Morgan enabled...");
 // }
 
-const port = process.env.PORT || 3000;
+const port = process.env.PORT || 4002;
 const server = app.listen(port, () =>
   winston.info(`Listening on port ${port}...`)
 );

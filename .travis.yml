@@ -6,12 +6,6 @@ cache:
 install:
   - npm install
 
-after_failure: echo  "------------- after failure ------------ "
-
-after_success: echo  "------------- after success ------------ "
-
-before_deploy: echo  "------------- before deploy ------------ "
-
 deploy:
   provider: heroku
   api_key:

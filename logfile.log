@@ -382,3 +382,375 @@
 {"level":"info","message":"Connected to mongodb://localhost/TemplateDB...","timestamp":"2019-08-03T09:43:44.712Z"}
 {"level":"info","message":"Listening on port 3000...","timestamp":"2019-08-04T10:30:58.197Z"}
 {"level":"info","message":"Connected to mongodb://localhost/TemplateDB...","timestamp":"2019-08-04T10:30:59.231Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2019-08-05T15:18:14.916Z"}
+{"level":"info","message":"Connected to mongodb://localhost/TemplateDB...","timestamp":"2019-08-05T15:18:15.964Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2019-08-05T15:26:38.755Z"}
+{"level":"info","message":"Connected to mongodb://localhost/TemplateDB...","timestamp":"2019-08-05T15:26:39.812Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2019-08-05T15:27:42.286Z"}
+{"level":"info","message":"Connected to mongodb://localhost/TemplateDB...","timestamp":"2019-08-05T15:27:43.333Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2019-08-05T15:28:00.312Z"}
+{"level":"info","message":"Connected to mongodb://localhost/TemplateDB...","timestamp":"2019-08-05T15:28:01.370Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2019-08-05T15:43:31.897Z"}
+{"level":"info","message":"Connected to mongodb://localhost/TemplateDB...","timestamp":"2019-08-05T15:43:32.923Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2019-08-05T16:30:51.064Z"}
+{"level":"info","message":"Connected to mongodb://localhost/TemplateDB...","timestamp":"2019-08-05T16:30:52.132Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2019-08-05T17:08:56.116Z"}
+{"level":"info","message":"Connected to mongodb://localhost/TemplateDB...","timestamp":"2019-08-05T17:08:57.168Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2019-08-05T17:10:00.507Z"}
+{"level":"info","message":"Connected to mongodb://localhost/TemplateDB...","timestamp":"2019-08-05T17:10:01.558Z"}
+{"message":"Cannot set headers after they are sent to the client","stack":"Error [ERR_HTTP_HEADERS_SENT]: Cannot set headers after they are sent to the client\n    at ServerResponse.setHeader (_http_outgoing.js:471:11)\n    at ServerResponse.header (C:\\Users\\amine\\Desktop\\web\\Backend-template\\node_modules\\express\\lib\\response.js:771:10)\n    at ServerResponse.send (C:\\Users\\amine\\Desktop\\web\\Backend-template\\node_modules\\express\\lib\\response.js:170:12)\n    at ServerResponse.json (C:\\Users\\amine\\Desktop\\web\\Backend-template\\node_modules\\express\\lib\\response.js:267:15)\n    at ServerResponse.send (C:\\Users\\amine\\Desktop\\web\\Backend-template\\node_modules\\express\\lib\\response.js:158:21)\n    at router.get (C:\\Users\\amine\\Desktop\\web\\Backend-template\\routes\\courses.js:41:7)\n    at process._tickCallback (internal/process/next_tick.js:68:7)","level":"error","timestamp":"2019-08-05T17:10:25.177Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2019-08-05T17:11:56.002Z"}
+{"level":"info","message":"Connected to mongodb://localhost/TemplateDB...","timestamp":"2019-08-05T17:11:57.022Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2019-08-06T17:57:24.828Z"}
+{"level":"info","message":"Connected to mongodb://localhost/TemplateDB...","timestamp":"2019-08-06T17:57:25.876Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2019-08-07T18:04:17.309Z"}
+{"level":"info","message":"Connected to mongodb://localhost/TemplateDB...","timestamp":"2019-08-07T18:04:18.372Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2019-08-07T18:08:19.923Z"}
+{"level":"info","message":"Connected to mongodb://localhost/TemplateDB...","timestamp":"2019-08-07T18:08:20.945Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2019-08-07T18:08:29.381Z"}
+{"level":"info","message":"Connected to mongodb://localhost/TemplateDB...","timestamp":"2019-08-07T18:08:30.404Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2019-08-08T13:25:03.342Z"}
+{"level":"info","message":"Connected to mongodb://localhost/TemplateDB...","timestamp":"2019-08-08T13:25:04.387Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2019-08-08T13:28:09.958Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2019-08-08T13:28:11.201Z"}
+{"level":"info","message":"Connected to mongodb://localhost/TemplateDB...","timestamp":"2019-08-08T13:28:12.243Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2019-08-13T09:01:48.701Z"}
+{"level":"info","message":"Connected to mongodb://localhost/TemplateDB...","timestamp":"2019-08-13T09:01:49.772Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2019-08-13T09:07:45.790Z"}
+{"level":"info","message":"Connected to mongodb://localhost/TemplateDB...","timestamp":"2019-08-13T09:07:46.851Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2019-08-13T09:12:10.959Z"}
+{"level":"info","message":"Connected to mongodb://localhost/TemplateDB...","timestamp":"2019-08-13T09:12:11.980Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2019-08-13T09:12:56.211Z"}
+{"level":"info","message":"Connected to mongodb://localhost/TemplateDB...","timestamp":"2019-08-13T09:12:57.273Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2019-08-13T09:32:43.187Z"}
+{"level":"info","message":"Connected to mongodb://localhost/TemplateDB...","timestamp":"2019-08-13T09:32:44.230Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2019-08-13T09:34:35.554Z"}
+{"level":"info","message":"Connected to mongodb://localhost/TemplateDB...","timestamp":"2019-08-13T09:34:36.579Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2019-08-13T09:35:32.188Z"}
+{"level":"info","message":"Connected to mongodb://localhost/TemplateDB...","timestamp":"2019-08-13T09:35:33.241Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2019-08-13T09:39:04.898Z"}
+{"level":"info","message":"Connected to mongodb://localhost/TemplateDB...","timestamp":"2019-08-13T09:39:05.922Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2019-08-13T09:39:31.470Z"}
+{"level":"info","message":"Connected to mongodb://localhost/TemplateDB...","timestamp":"2019-08-13T09:39:32.519Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2019-08-13T09:39:59.030Z"}
+{"level":"info","message":"Connected to mongodb://localhost/TemplateDB...","timestamp":"2019-08-13T09:40:00.089Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2019-08-13T09:40:14.332Z"}
+{"level":"info","message":"Connected to mongodb://localhost/TemplateDB...","timestamp":"2019-08-13T09:40:15.386Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2019-08-13T09:41:58.964Z"}
+{"level":"info","message":"Connected to mongodb://localhost/TemplateDB...","timestamp":"2019-08-13T09:42:00.022Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2019-08-13T09:45:09.837Z"}
+{"level":"info","message":"Connected to mongodb://localhost/TemplateDB...","timestamp":"2019-08-13T09:45:10.894Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2019-08-13T09:46:29.843Z"}
+{"level":"info","message":"Connected to mongodb://localhost/TemplateDB...","timestamp":"2019-08-13T09:46:30.896Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2019-08-13T09:47:39.470Z"}
+{"level":"info","message":"Connected to mongodb://localhost/TemplateDB...","timestamp":"2019-08-13T09:47:40.530Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2019-08-13T09:48:56.582Z"}
+{"level":"info","message":"Connected to mongodb://localhost/TemplateDB...","timestamp":"2019-08-13T09:48:57.609Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2019-08-13T09:51:08.469Z"}
+{"level":"info","message":"Connected to mongodb://localhost/TemplateDB...","timestamp":"2019-08-13T09:51:09.494Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2019-08-13T09:53:45.811Z"}
+{"level":"info","message":"Connected to mongodb://localhost/TemplateDB...","timestamp":"2019-08-13T09:53:46.854Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2019-08-13T16:34:27.989Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2019-08-14T13:46:27.285Z"}
+{"level":"info","message":"Connected to mongodb://localhost/TemplateDB...","timestamp":"2019-08-14T13:46:28.311Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2019-08-14T13:48:30.992Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2019-08-14T13:48:32.197Z"}
+{"level":"info","message":"Connected to mongodb://localhost/TemplateDB...","timestamp":"2019-08-14T13:48:33.215Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2019-08-14T14:22:24.607Z"}
+{"level":"info","message":"Connected to mongodb://localhost/TemplateDB...","timestamp":"2019-08-14T14:22:25.658Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2019-08-14T14:22:43.377Z"}
+{"level":"info","message":"Connected to mongodb://localhost/TemplateDB...","timestamp":"2019-08-14T14:22:44.434Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2019-08-14T14:28:51.050Z"}
+{"level":"info","message":"Connected to mongodb://localhost/TemplateDB...","timestamp":"2019-08-14T14:28:52.106Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2019-08-14T14:29:32.146Z"}
+{"level":"info","message":"Connected to mongodb://localhost/TemplateDB...","timestamp":"2019-08-14T14:29:33.192Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2019-08-14T14:34:36.278Z"}
+{"level":"info","message":"Connected to mongodb://localhost/TemplateDB...","timestamp":"2019-08-14T14:34:37.341Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2019-08-14T14:35:56.878Z"}
+{"level":"info","message":"Connected to mongodb://localhost/TemplateDB...","timestamp":"2019-08-14T14:35:57.932Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2019-08-14T14:42:07.878Z"}
+{"level":"info","message":"Connected to mongodb://localhost/TemplateDB...","timestamp":"2019-08-14T14:42:08.935Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2019-08-14T14:42:35.358Z"}
+{"level":"info","message":"Connected to mongodb://localhost/TemplateDB...","timestamp":"2019-08-14T14:42:36.401Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2019-08-14T14:50:17.042Z"}
+{"level":"info","message":"Connected to mongodb://localhost/TemplateDB...","timestamp":"2019-08-14T14:50:18.091Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2019-08-14T14:51:05.258Z"}
+{"level":"info","message":"Connected to mongodb://localhost/TemplateDB...","timestamp":"2019-08-14T14:51:06.318Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2019-08-14T14:59:33.719Z"}
+{"level":"info","message":"Connected to mongodb://localhost/TemplateDB...","timestamp":"2019-08-14T14:59:34.772Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2019-08-14T16:24:21.388Z"}
+{"level":"info","message":"Connected to mongodb://localhost/TemplateDB...","timestamp":"2019-08-14T16:24:22.439Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2019-08-14T16:26:11.119Z"}
+{"level":"info","message":"Connected to mongodb://localhost/TemplateDB...","timestamp":"2019-08-14T16:26:12.175Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2019-08-14T16:26:50.735Z"}
+{"level":"info","message":"Connected to mongodb://localhost/TemplateDB...","timestamp":"2019-08-14T16:26:51.784Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2019-08-14T16:29:55.186Z"}
+{"level":"info","message":"Connected to mongodb://localhost/TemplateDB...","timestamp":"2019-08-14T16:29:56.244Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2019-08-14T16:30:07.295Z"}
+{"level":"info","message":"Connected to mongodb://localhost/TemplateDB...","timestamp":"2019-08-14T16:30:08.348Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2019-08-14T16:30:13.184Z"}
+{"level":"info","message":"Connected to mongodb://localhost/TemplateDB...","timestamp":"2019-08-14T16:30:14.203Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2019-08-14T16:30:37.595Z"}
+{"level":"info","message":"Connected to mongodb://localhost/TemplateDB...","timestamp":"2019-08-14T16:30:38.644Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2019-08-14T16:35:49.021Z"}
+{"level":"info","message":"Connected to mongodb://localhost/TemplateDB...","timestamp":"2019-08-14T16:35:50.074Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2019-08-14T16:35:51.435Z"}
+{"level":"info","message":"Connected to mongodb://localhost/TemplateDB...","timestamp":"2019-08-14T16:35:52.494Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2019-08-14T16:40:41.214Z"}
+{"level":"info","message":"Connected to mongodb://localhost/TemplateDB...","timestamp":"2019-08-14T16:40:42.270Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2019-08-14T16:43:54.707Z"}
+{"level":"info","message":"Connected to mongodb://localhost/TemplateDB...","timestamp":"2019-08-14T16:43:55.769Z"}
+{"message":"Cannot set headers after they are sent to the client","stack":"Error [ERR_HTTP_HEADERS_SENT]: Cannot set headers after they are sent to the client\n    at ServerResponse.setHeader (_http_outgoing.js:471:11)\n    at ServerResponse.header (C:\\Users\\amine\\Desktop\\web\\Backend-template\\node_modules\\express\\lib\\response.js:771:10)\n    at ServerResponse.send (C:\\Users\\amine\\Desktop\\web\\Backend-template\\node_modules\\express\\lib\\response.js:170:12)\n    at ServerResponse.json (C:\\Users\\amine\\Desktop\\web\\Backend-template\\node_modules\\express\\lib\\response.js:267:15)\n    at ServerResponse.send (C:\\Users\\amine\\Desktop\\web\\Backend-template\\node_modules\\express\\lib\\response.js:158:21)\n    at router.get (C:\\Users\\amine\\Desktop\\web\\Backend-template\\routes\\courses.js:39:7)\n    at process._tickCallback (internal/process/next_tick.js:68:7)","level":"error","timestamp":"2019-08-14T16:47:34.877Z"}
+{"message":"Cannot set headers after they are sent to the client","stack":"Error [ERR_HTTP_HEADERS_SENT]: Cannot set headers after they are sent to the client\n    at ServerResponse.setHeader (_http_outgoing.js:471:11)\n    at ServerResponse.header (C:\\Users\\amine\\Desktop\\web\\Backend-template\\node_modules\\express\\lib\\response.js:771:10)\n    at ServerResponse.send (C:\\Users\\amine\\Desktop\\web\\Backend-template\\node_modules\\express\\lib\\response.js:170:12)\n    at ServerResponse.json (C:\\Users\\amine\\Desktop\\web\\Backend-template\\node_modules\\express\\lib\\response.js:267:15)\n    at ServerResponse.send (C:\\Users\\amine\\Desktop\\web\\Backend-template\\node_modules\\express\\lib\\response.js:158:21)\n    at router.get (C:\\Users\\amine\\Desktop\\web\\Backend-template\\routes\\courses.js:39:7)\n    at process._tickCallback (internal/process/next_tick.js:68:7)","level":"error","timestamp":"2019-08-14T16:48:50.167Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2019-08-14T16:54:02.972Z"}
+{"level":"info","message":"Connected to mongodb://localhost/TemplateDB...","timestamp":"2019-08-14T16:54:04.023Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2019-08-14T17:01:42.790Z"}
+{"level":"info","message":"Connected to mongodb://localhost/TemplateDB...","timestamp":"2019-08-14T17:01:43.835Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2019-08-14T17:03:38.458Z"}
+{"level":"info","message":"Connected to mongodb://localhost/TemplateDB...","timestamp":"2019-08-14T17:03:39.519Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2019-08-14T17:05:22.871Z"}
+{"level":"info","message":"Connected to mongodb://localhost/TemplateDB...","timestamp":"2019-08-14T17:05:23.903Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2019-08-14T17:06:37.041Z"}
+{"level":"info","message":"Connected to mongodb://localhost/TemplateDB...","timestamp":"2019-08-14T17:06:38.076Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2019-08-14T17:07:19.799Z"}
+{"level":"info","message":"Connected to mongodb://localhost/TemplateDB...","timestamp":"2019-08-14T17:07:20.820Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2019-08-14T17:07:43.564Z"}
+{"level":"info","message":"Connected to mongodb://localhost/TemplateDB...","timestamp":"2019-08-14T17:07:44.621Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2019-08-14T17:14:28.469Z"}
+{"level":"info","message":"Connected to mongodb://localhost/TemplateDB...","timestamp":"2019-08-14T17:14:29.522Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2019-08-14T17:25:11.447Z"}
+{"level":"info","message":"Connected to mongodb://localhost/TemplateDB...","timestamp":"2019-08-14T17:25:12.506Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2019-08-14T17:26:22.409Z"}
+{"level":"info","message":"Connected to mongodb://localhost/TemplateDB...","timestamp":"2019-08-14T17:26:23.460Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2019-08-14T17:26:51.407Z"}
+{"level":"info","message":"Connected to mongodb://localhost/TemplateDB...","timestamp":"2019-08-14T17:26:52.429Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2019-08-14T17:27:15.796Z"}
+{"level":"info","message":"Connected to mongodb://localhost/TemplateDB...","timestamp":"2019-08-14T17:27:16.829Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2019-08-14T17:27:36.061Z"}
+{"level":"info","message":"Connected to mongodb://localhost/TemplateDB...","timestamp":"2019-08-14T17:27:37.117Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2019-08-14T17:29:53.259Z"}
+{"level":"info","message":"Connected to mongodb://localhost/TemplateDB...","timestamp":"2019-08-14T17:29:54.319Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2019-08-14T17:30:38.878Z"}
+{"level":"info","message":"Connected to mongodb://localhost/TemplateDB...","timestamp":"2019-08-14T17:30:39.953Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2019-08-14T17:41:30.028Z"}
+{"level":"info","message":"Connected to mongodb://localhost/TemplateDB...","timestamp":"2019-08-14T17:41:31.086Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2019-08-14T17:43:16.639Z"}
+{"level":"info","message":"Connected to mongodb://localhost/TemplateDB...","timestamp":"2019-08-14T17:43:17.683Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2019-08-14T17:43:57.193Z"}
+{"level":"info","message":"Connected to mongodb://localhost/TemplateDB...","timestamp":"2019-08-14T17:43:58.244Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2019-08-14T17:45:32.812Z"}
+{"level":"info","message":"Connected to mongodb://localhost/TemplateDB...","timestamp":"2019-08-14T17:45:33.835Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2019-08-14T17:48:21.311Z"}
+{"level":"info","message":"Connected to mongodb://localhost/TemplateDB...","timestamp":"2019-08-14T17:48:22.374Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2019-08-14T17:49:43.858Z"}
+{"level":"info","message":"Connected to mongodb://localhost/TemplateDB...","timestamp":"2019-08-14T17:49:44.867Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2019-08-14T17:51:31.750Z"}
+{"level":"info","message":"Connected to mongodb://localhost/TemplateDB...","timestamp":"2019-08-14T17:51:32.794Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2019-08-14T17:54:35.234Z"}
+{"level":"info","message":"Connected to mongodb://localhost/TemplateDB...","timestamp":"2019-08-14T17:54:36.263Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2019-08-14T17:55:24.773Z"}
+{"level":"info","message":"Connected to mongodb://localhost/TemplateDB...","timestamp":"2019-08-14T17:55:25.816Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2019-08-14T17:57:11.652Z"}
+{"level":"info","message":"Connected to mongodb://localhost/TemplateDB...","timestamp":"2019-08-14T17:57:12.713Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2019-08-14T17:58:27.901Z"}
+{"level":"info","message":"Connected to mongodb://localhost/TemplateDB...","timestamp":"2019-08-14T17:58:28.944Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2019-08-14T18:09:18.859Z"}
+{"level":"info","message":"Connected to mongodb://localhost/TemplateDB...","timestamp":"2019-08-14T18:09:19.907Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2019-08-14T18:09:57.274Z"}
+{"level":"info","message":"Connected to mongodb://localhost/TemplateDB...","timestamp":"2019-08-14T18:09:58.336Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2019-08-14T18:10:05.864Z"}
+{"level":"info","message":"Connected to mongodb://localhost/TemplateDB...","timestamp":"2019-08-14T18:10:06.925Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2019-08-14T18:10:38.869Z"}
+{"level":"info","message":"Connected to mongodb://localhost/TemplateDB...","timestamp":"2019-08-14T18:10:39.926Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2019-08-14T18:10:49.110Z"}
+{"level":"info","message":"Connected to mongodb://localhost/TemplateDB...","timestamp":"2019-08-14T18:10:50.168Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2019-08-14T18:10:54.647Z"}
+{"level":"info","message":"Connected to mongodb://localhost/TemplateDB...","timestamp":"2019-08-14T18:10:55.705Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2019-08-14T18:12:10.588Z"}
+{"level":"info","message":"Connected to mongodb://localhost/TemplateDB...","timestamp":"2019-08-14T18:12:11.609Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2019-08-14T18:12:33.710Z"}
+{"level":"info","message":"Connected to mongodb://localhost/TemplateDB...","timestamp":"2019-08-14T18:12:34.765Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2019-08-14T18:12:51.029Z"}
+{"level":"info","message":"Connected to mongodb://localhost/TemplateDB...","timestamp":"2019-08-14T18:12:52.083Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2019-08-14T18:12:58.142Z"}
+{"level":"info","message":"Connected to mongodb://localhost/TemplateDB...","timestamp":"2019-08-14T18:12:59.182Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2019-08-14T18:14:26.548Z"}
+{"level":"info","message":"Connected to mongodb://localhost/TemplateDB...","timestamp":"2019-08-14T18:14:27.597Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2019-08-14T18:16:14.089Z"}
+{"level":"info","message":"Connected to mongodb://localhost/TemplateDB...","timestamp":"2019-08-14T18:16:15.135Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2019-08-14T18:21:14.759Z"}
+{"level":"info","message":"Connected to mongodb://localhost/TemplateDB...","timestamp":"2019-08-14T18:21:15.813Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2019-08-14T18:22:18.281Z"}
+{"level":"info","message":"Connected to mongodb://localhost/TemplateDB...","timestamp":"2019-08-14T18:22:19.303Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2019-08-14T18:22:23.850Z"}
+{"level":"info","message":"Connected to mongodb://localhost/TemplateDB...","timestamp":"2019-08-14T18:22:24.906Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2019-08-14T18:22:28.280Z"}
+{"level":"info","message":"Connected to mongodb://localhost/TemplateDB...","timestamp":"2019-08-14T18:22:29.336Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2019-08-14T18:22:50.074Z"}
+{"level":"info","message":"Connected to mongodb://localhost/TemplateDB...","timestamp":"2019-08-14T18:22:51.092Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2019-08-14T18:24:55.216Z"}
+{"level":"info","message":"Connected to mongodb://localhost/TemplateDB...","timestamp":"2019-08-14T18:24:56.259Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2019-08-14T18:25:06.373Z"}
+{"level":"info","message":"Connected to mongodb://localhost/TemplateDB...","timestamp":"2019-08-14T18:25:07.405Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2019-08-14T18:25:37.027Z"}
+{"level":"info","message":"Connected to mongodb://localhost/TemplateDB...","timestamp":"2019-08-14T18:25:38.074Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2019-08-14T18:27:45.064Z"}
+{"level":"info","message":"Connected to mongodb://localhost/TemplateDB...","timestamp":"2019-08-14T18:27:46.117Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2019-08-14T18:28:43.378Z"}
+{"level":"info","message":"Connected to mongodb://localhost/TemplateDB...","timestamp":"2019-08-14T18:28:44.446Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2019-08-14T19:21:48.424Z"}
+{"level":"info","message":"Connected to mongodb://localhost/TemplateDB...","timestamp":"2019-08-14T19:21:49.473Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2019-08-14T19:27:19.556Z"}
+{"level":"info","message":"Connected to mongodb://localhost/TemplateDB...","timestamp":"2019-08-14T19:27:20.612Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2019-08-14T19:28:33.979Z"}
+{"level":"info","message":"Connected to mongodb://localhost/TemplateDB...","timestamp":"2019-08-14T19:28:35.038Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2019-08-14T19:30:32.682Z"}
+{"level":"info","message":"Connected to mongodb://localhost/TemplateDB...","timestamp":"2019-08-14T19:30:33.742Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2019-08-14T19:36:10.649Z"}
+{"level":"info","message":"Connected to mongodb://localhost/TemplateDB...","timestamp":"2019-08-14T19:36:11.702Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2019-08-14T19:37:50.475Z"}
+{"level":"info","message":"Connected to mongodb://localhost/TemplateDB...","timestamp":"2019-08-14T19:37:51.535Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2019-08-14T19:38:12.377Z"}
+{"level":"info","message":"Connected to mongodb://localhost/TemplateDB...","timestamp":"2019-08-14T19:38:13.404Z"}
+{"message":"Joi.String is not a function","stack":"TypeError: Joi.String is not a function\n    at validateAnnouncement (C:\\Users\\amine\\Desktop\\web\\Backend-template\\models\\announcement.js:39:18)\n    at C:\\Users\\amine\\Desktop\\web\\Backend-template\\middlewares\\validateBody.js:3:23\n    at newFn (C:\\Users\\amine\\Desktop\\web\\Backend-template\\node_modules\\express-async-errors\\index.js:16:20)\n    at Layer.handle [as handle_request] (C:\\Users\\amine\\Desktop\\web\\Backend-template\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at next (C:\\Users\\amine\\Desktop\\web\\Backend-template\\node_modules\\express\\lib\\router\\route.js:137:13)\n    at C:\\Users\\amine\\Desktop\\web\\Backend-template\\middlewares\\role.js:15:5\n    at newFn (C:\\Users\\amine\\Desktop\\web\\Backend-template\\node_modules\\express-async-errors\\index.js:16:20)\n    at Layer.handle [as handle_request] (C:\\Users\\amine\\Desktop\\web\\Backend-template\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at next (C:\\Users\\amine\\Desktop\\web\\Backend-template\\node_modules\\express\\lib\\router\\route.js:137:13)\n    at auth (C:\\Users\\amine\\Desktop\\web\\Backend-template\\middlewares\\auth.js:12:5)\n    at newFn (C:\\Users\\amine\\Desktop\\web\\Backend-template\\node_modules\\express-async-errors\\index.js:16:20)\n    at Layer.handle [as handle_request] (C:\\Users\\amine\\Desktop\\web\\Backend-template\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at next (C:\\Users\\amine\\Desktop\\web\\Backend-template\\node_modules\\express\\lib\\router\\route.js:137:13)\n    at Route.dispatch (C:\\Users\\amine\\Desktop\\web\\Backend-template\\node_modules\\express\\lib\\router\\route.js:112:3)\n    at newFn (C:\\Users\\amine\\Desktop\\web\\Backend-template\\node_modules\\express-async-errors\\index.js:16:20)\n    at Layer.handle [as handle_request] (C:\\Users\\amine\\Desktop\\web\\Backend-template\\node_modules\\express\\lib\\router\\layer.js:95:5)","level":"error","timestamp":"2019-08-14T19:55:22.893Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2019-08-14T19:55:46.005Z"}
+{"level":"info","message":"Connected to mongodb://localhost/TemplateDB...","timestamp":"2019-08-14T19:55:47.042Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2019-08-15T09:36:40.817Z"}
+{"level":"info","message":"Connected to mongodb://localhost/TemplateDB...","timestamp":"2019-08-15T09:36:41.832Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2019-08-15T10:03:24.231Z"}
+{"level":"info","message":"Connected to mongodb://localhost/TemplateDB...","timestamp":"2019-08-15T10:03:25.281Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2019-08-15T10:04:28.652Z"}
+{"level":"info","message":"Connected to mongodb://localhost/TemplateDB...","timestamp":"2019-08-15T10:04:29.712Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2019-08-15T10:04:43.115Z"}
+{"level":"info","message":"Connected to mongodb://localhost/TemplateDB...","timestamp":"2019-08-15T10:04:44.134Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2019-08-15T10:06:16.837Z"}
+{"level":"info","message":"Connected to mongodb://localhost/TemplateDB...","timestamp":"2019-08-15T10:06:17.878Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2019-08-15T10:06:47.963Z"}
+{"level":"info","message":"Connected to mongodb://localhost/TemplateDB...","timestamp":"2019-08-15T10:06:49.015Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2019-08-15T10:07:25.922Z"}
+{"level":"info","message":"Connected to mongodb://localhost/TemplateDB...","timestamp":"2019-08-15T10:07:26.980Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2019-08-15T10:18:03.158Z"}
+{"level":"info","message":"Connected to mongodb://localhost/TemplateDB...","timestamp":"2019-08-15T10:18:04.219Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2019-08-15T10:24:41.406Z"}
+{"level":"info","message":"Connected to mongodb://localhost/TemplateDB...","timestamp":"2019-08-15T10:24:42.441Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2019-08-15T10:26:16.232Z"}
+{"level":"info","message":"Connected to mongodb://localhost/TemplateDB...","timestamp":"2019-08-15T10:26:17.251Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2019-08-15T10:26:46.112Z"}
+{"level":"info","message":"Connected to mongodb://localhost/TemplateDB...","timestamp":"2019-08-15T10:26:47.130Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2019-08-15T10:29:20.034Z"}
+{"level":"info","message":"Connected to mongodb://localhost/TemplateDB...","timestamp":"2019-08-15T10:29:21.082Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2019-08-15T10:31:22.819Z"}
+{"level":"info","message":"Connected to mongodb://localhost/TemplateDB...","timestamp":"2019-08-15T10:31:23.872Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2019-08-15T10:33:49.626Z"}
+{"level":"info","message":"Connected to mongodb://localhost/TemplateDB...","timestamp":"2019-08-15T10:33:50.684Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2019-08-15T10:36:16.147Z"}
+{"level":"info","message":"Connected to mongodb://localhost/TemplateDB...","timestamp":"2019-08-15T10:36:17.204Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2019-08-15T10:36:36.556Z"}
+{"level":"info","message":"Connected to mongodb://localhost/TemplateDB...","timestamp":"2019-08-15T10:36:37.607Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2019-08-15T10:47:23.349Z"}
+{"level":"info","message":"Connected to mongodb://localhost/TemplateDB...","timestamp":"2019-08-15T10:47:24.404Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2019-08-15T10:47:56.840Z"}
+{"level":"info","message":"Connected to mongodb://localhost/TemplateDB...","timestamp":"2019-08-15T10:47:57.904Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2019-08-15T10:51:40.784Z"}
+{"level":"info","message":"Connected to mongodb://localhost/TemplateDB...","timestamp":"2019-08-15T10:51:41.797Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2019-08-15T10:57:44.895Z"}
+{"level":"info","message":"Connected to mongodb://localhost/TemplateDB...","timestamp":"2019-08-15T10:57:45.935Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2019-08-15T10:58:02.865Z"}
+{"level":"info","message":"Connected to mongodb://localhost/TemplateDB...","timestamp":"2019-08-15T10:58:03.917Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2019-08-15T10:58:14.524Z"}
+{"level":"info","message":"Connected to mongodb://localhost/TemplateDB...","timestamp":"2019-08-15T10:58:15.542Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2019-08-15T10:58:58.447Z"}
+{"level":"info","message":"Connected to mongodb://localhost/TemplateDB...","timestamp":"2019-08-15T10:58:59.498Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2019-08-15T11:02:24.097Z"}
+{"level":"info","message":"Connected to mongodb://localhost/TemplateDB...","timestamp":"2019-08-15T11:02:25.140Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2019-08-15T11:04:29.946Z"}
+{"level":"info","message":"Connected to mongodb://localhost/TemplateDB...","timestamp":"2019-08-15T11:04:30.971Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2019-08-15T11:05:21.300Z"}
+{"level":"info","message":"Connected to mongodb://localhost/TemplateDB...","timestamp":"2019-08-15T11:05:22.348Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2019-08-15T11:06:32.154Z"}
+{"level":"info","message":"Connected to mongodb://localhost/TemplateDB...","timestamp":"2019-08-15T11:06:33.202Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2019-08-15T11:07:18.928Z"}
+{"level":"info","message":"Connected to mongodb://localhost/TemplateDB...","timestamp":"2019-08-15T11:07:19.978Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2019-08-15T11:07:37.168Z"}
+{"level":"info","message":"Connected to mongodb://localhost/TemplateDB...","timestamp":"2019-08-15T11:07:38.204Z"}
+{"message":"filepaths is not iterable","stack":"TypeError: filepaths is not iterable\n    at module.exports._create (C:\\Users\\amine\\Desktop\\web\\Backend-template\\controllers\\announcementsController.js:12:16)\n    at newFn (C:\\Users\\amine\\Desktop\\web\\Backend-template\\node_modules\\express-async-errors\\index.js:16:20)\n    at Layer.handle [as handle_request] (C:\\Users\\amine\\Desktop\\web\\Backend-template\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at next (C:\\Users\\amine\\Desktop\\web\\Backend-template\\node_modules\\express\\lib\\router\\route.js:137:13)\n    at C:\\Users\\amine\\Desktop\\web\\Backend-template\\middlewares\\validateBody.js:6:5\n    at newFn (C:\\Users\\amine\\Desktop\\web\\Backend-template\\node_modules\\express-async-errors\\index.js:16:20)\n    at Layer.handle [as handle_request] (C:\\Users\\amine\\Desktop\\web\\Backend-template\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at next (C:\\Users\\amine\\Desktop\\web\\Backend-template\\node_modules\\express\\lib\\router\\route.js:137:13)\n    at C:\\Users\\amine\\Desktop\\web\\Backend-template\\middlewares\\role.js:15:5\n    at newFn (C:\\Users\\amine\\Desktop\\web\\Backend-template\\node_modules\\express-async-errors\\index.js:16:20)\n    at Layer.handle [as handle_request] (C:\\Users\\amine\\Desktop\\web\\Backend-template\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at next (C:\\Users\\amine\\Desktop\\web\\Backend-template\\node_modules\\express\\lib\\router\\route.js:137:13)\n    at auth (C:\\Users\\amine\\Desktop\\web\\Backend-template\\middlewares\\auth.js:12:5)\n    at newFn (C:\\Users\\amine\\Desktop\\web\\Backend-template\\node_modules\\express-async-errors\\index.js:16:20)\n    at Layer.handle [as handle_request] (C:\\Users\\amine\\Desktop\\web\\Backend-template\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at next (C:\\Users\\amine\\Desktop\\web\\Backend-template\\node_modules\\express\\lib\\router\\route.js:137:13)","level":"error","timestamp":"2019-08-15T11:07:42.336Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2019-08-15T13:06:15.051Z"}
+{"level":"info","message":"Connected to mongodb://localhost/TemplateDB...","timestamp":"2019-08-15T13:06:16.085Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2019-08-15T13:06:22.608Z"}
+{"level":"info","message":"Connected to mongodb://localhost/TemplateDB...","timestamp":"2019-08-15T13:06:23.659Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2019-08-15T13:09:40.016Z"}
+{"level":"info","message":"Connected to mongodb://localhost/TemplateDB...","timestamp":"2019-08-15T13:09:41.036Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2019-08-15T13:10:08.713Z"}
+{"level":"info","message":"Connected to mongodb://localhost/TemplateDB...","timestamp":"2019-08-15T13:10:09.757Z"}
+{"message":"filepaths is not iterable","stack":"TypeError: filepaths is not iterable\n    at module.exports._create (C:\\Users\\amine\\Desktop\\web\\Backend-template\\controllers\\announcementsController.js:12:16)\n    at process._tickCallback (internal/process/next_tick.js:68:7)","level":"error","timestamp":"2019-08-15T13:10:59.767Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2019-08-15T13:11:20.196Z"}
+{"level":"info","message":"Connected to mongodb://localhost/TemplateDB...","timestamp":"2019-08-15T13:11:21.241Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2019-08-15T13:22:08.211Z"}
+{"level":"info","message":"Connected to mongodb://localhost/TemplateDB...","timestamp":"2019-08-15T13:22:09.242Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2019-08-15T13:24:04.851Z"}
+{"level":"info","message":"Connected to mongodb://localhost/TemplateDB...","timestamp":"2019-08-15T13:24:05.900Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2019-08-15T13:26:13.326Z"}
+{"level":"info","message":"Connected to mongodb://localhost/TemplateDB...","timestamp":"2019-08-15T13:26:14.342Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2019-08-15T13:27:33.942Z"}
+{"level":"info","message":"Connected to mongodb://localhost/TemplateDB...","timestamp":"2019-08-15T13:27:34.973Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2019-08-15T13:28:06.039Z"}
+{"level":"info","message":"Connected to mongodb://localhost/TemplateDB...","timestamp":"2019-08-15T13:28:07.096Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2019-08-15T13:28:08.545Z"}
+{"level":"info","message":"Connected to mongodb://localhost/TemplateDB...","timestamp":"2019-08-15T13:28:09.599Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2019-08-15T13:29:41.262Z"}
+{"level":"info","message":"Connected to mongodb://localhost/TemplateDB...","timestamp":"2019-08-15T13:29:42.309Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2019-08-15T13:29:47.162Z"}
+{"level":"info","message":"Connected to mongodb://localhost/TemplateDB...","timestamp":"2019-08-15T13:29:48.211Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2019-08-15T13:30:15.631Z"}
+{"level":"info","message":"Connected to mongodb://localhost/TemplateDB...","timestamp":"2019-08-15T13:30:16.691Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2019-08-15T13:31:23.437Z"}
+{"level":"info","message":"Connected to mongodb://localhost/TemplateDB...","timestamp":"2019-08-15T13:31:24.480Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2019-08-15T13:39:12.280Z"}
+{"level":"info","message":"Connected to mongodb://localhost/TemplateDB...","timestamp":"2019-08-15T13:39:13.296Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2019-08-15T13:41:42.867Z"}
+{"level":"info","message":"Connected to mongodb://localhost/TemplateDB...","timestamp":"2019-08-15T13:41:43.927Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2019-08-15T13:45:45.845Z"}
+{"level":"info","message":"Connected to mongodb://localhost/TemplateDB...","timestamp":"2019-08-15T13:45:46.902Z"}
+{"message":"saveOne is not defined","stack":"ReferenceError: saveOne is not defined\n    at Promise.all.Object.keys.map.key (C:\\Users\\amine\\Desktop\\web\\Backend-template\\controllers\\fileController.js:3:35)\n    at Array.map (<anonymous>)\n    at module.exports.save (C:\\Users\\amine\\Desktop\\web\\Backend-template\\controllers\\fileController.js:3:24)\n    at module.exports._create (C:\\Users\\amine\\Desktop\\web\\Backend-template\\controllers\\announcementsController.js:9:27)\n    at newFn (C:\\Users\\amine\\Desktop\\web\\Backend-template\\node_modules\\express-async-errors\\index.js:16:20)\n    at Layer.handle [as handle_request] (C:\\Users\\amine\\Desktop\\web\\Backend-template\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at next (C:\\Users\\amine\\Desktop\\web\\Backend-template\\node_modules\\express\\lib\\router\\route.js:137:13)\n    at C:\\Users\\amine\\Desktop\\web\\Backend-template\\middlewares\\validateBody.js:6:5\n    at newFn (C:\\Users\\amine\\Desktop\\web\\Backend-template\\node_modules\\express-async-errors\\index.js:16:20)\n    at Layer.handle [as handle_request] (C:\\Users\\amine\\Desktop\\web\\Backend-template\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at next (C:\\Users\\amine\\Desktop\\web\\Backend-template\\node_modules\\express\\lib\\router\\route.js:137:13)\n    at C:\\Users\\amine\\Desktop\\web\\Backend-template\\middlewares\\role.js:15:5\n    at newFn (C:\\Users\\amine\\Desktop\\web\\Backend-template\\node_modules\\express-async-errors\\index.js:16:20)\n    at Layer.handle [as handle_request] (C:\\Users\\amine\\Desktop\\web\\Backend-template\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at next (C:\\Users\\amine\\Desktop\\web\\Backend-template\\node_modules\\express\\lib\\router\\route.js:137:13)\n    at auth (C:\\Users\\amine\\Desktop\\web\\Backend-template\\middlewares\\auth.js:12:5)","level":"error","timestamp":"2019-08-15T13:46:02.742Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2019-08-15T13:46:23.450Z"}
+{"level":"info","message":"Connected to mongodb://localhost/TemplateDB...","timestamp":"2019-08-15T13:46:24.502Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2019-08-15T13:48:42.996Z"}
+{"level":"info","message":"Connected to mongodb://localhost/TemplateDB...","timestamp":"2019-08-15T13:48:44.037Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2019-08-15T13:49:04.557Z"}
+{"level":"info","message":"Connected to mongodb://localhost/TemplateDB...","timestamp":"2019-08-15T13:49:05.593Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2019-08-15T13:49:23.076Z"}
+{"level":"info","message":"Connected to mongodb://localhost/TemplateDB...","timestamp":"2019-08-15T13:49:24.117Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2019-08-15T13:49:26.775Z"}
+{"level":"info","message":"Connected to mongodb://localhost/TemplateDB...","timestamp":"2019-08-15T13:49:27.821Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2019-08-15T13:50:37.973Z"}
+{"level":"info","message":"Connected to mongodb://localhost/TemplateDB...","timestamp":"2019-08-15T13:50:39.030Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2019-08-15T13:50:46.459Z"}
+{"level":"info","message":"Connected to mongodb://localhost/TemplateDB...","timestamp":"2019-08-15T13:50:47.500Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2019-08-15T13:52:13.782Z"}
+{"level":"info","message":"Connected to mongodb://localhost/TemplateDB...","timestamp":"2019-08-15T13:52:14.834Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2019-08-15T13:53:35.931Z"}
+{"level":"info","message":"Connected to mongodb://localhost/TemplateDB...","timestamp":"2019-08-15T13:53:36.952Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2019-08-15T13:55:53.105Z"}
+{"level":"info","message":"Connected to mongodb://localhost/TemplateDB...","timestamp":"2019-08-15T13:55:54.164Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2019-08-16T16:34:14.921Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2019-08-16T18:39:41.176Z"}
+{"level":"info","message":"Connected to mongodb://localhost/TemplateDB...","timestamp":"2019-08-16T18:39:42.195Z"}
+{"level":"info","message":"Listening on port 4002...","timestamp":"2019-08-16T18:40:24.242Z"}
+{"level":"info","message":"Connected to mongodb://localhost/TemplateDB...","timestamp":"2019-08-16T18:40:25.261Z"}
+{"level":"info","message":"Listening on port 4002...","timestamp":"2019-08-16T20:05:32.597Z"}
+{"level":"info","message":"Connected to mongodb://localhost/TemplateDB...","timestamp":"2019-08-16T20:05:33.642Z"}
+{"level":"info","message":"Listening on port 4002...","timestamp":"2019-08-16T20:07:37.307Z"}
+{"level":"info","message":"Connected to mongodb://localhost/TemplateDB...","timestamp":"2019-08-16T20:07:38.358Z"}
+{"level":"info","message":"Listening on port 4002...","timestamp":"2019-08-16T21:24:36.900Z"}
+{"level":"info","message":"Connected to mongodb://localhost/TemplateDB...","timestamp":"2019-08-16T21:24:37.957Z"}
+{"level":"info","message":"Listening on port 4002...","timestamp":"2019-08-16T21:25:34.725Z"}
+{"level":"info","message":"Connected to mongodb://localhost/TemplateDB...","timestamp":"2019-08-16T21:25:35.780Z"}
+{"level":"info","message":"Listening on port 4002...","timestamp":"2019-08-16T21:30:24.203Z"}
+{"level":"info","message":"Connected to mongodb://localhost/TemplateDB...","timestamp":"2019-08-16T21:30:25.244Z"}
+{"level":"info","message":"Listening on port 4002...","timestamp":"2019-08-16T21:30:35.805Z"}
+{"level":"info","message":"Connected to mongodb://localhost/TemplateDB...","timestamp":"2019-08-16T21:30:36.858Z"}
+{"level":"info","message":"Listening on port 4002...","timestamp":"2019-08-16T21:47:37.155Z"}
+{"level":"info","message":"Connected to mongodb://localhost/TemplateDB...","timestamp":"2019-08-16T21:47:38.208Z"}
+{"level":"info","message":"Listening on port 4002...","timestamp":"2019-08-16T21:48:10.202Z"}
+{"level":"info","message":"Connected to mongodb://localhost/TemplateDB...","timestamp":"2019-08-16T21:48:11.219Z"}
+{"level":"info","message":"Listening on port 4002...","timestamp":"2019-08-18T09:18:17.759Z"}

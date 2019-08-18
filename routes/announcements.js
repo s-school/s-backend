@@ -1,9 +1,8 @@
 const auth = require("../middlewares/auth");
 const role = require("../middlewares/role");
-const escapeString = require("../middlewares/escapeString");
 const validateBody = require("../middlewares/validateBody");
 const validateObjectId = require("../middlewares/validateObjectId");
-const { validate } = require("../models/course");
+const { validate } = require("../models/announcement");
 
 const express = require("express");
 const router = express.Router();
@@ -12,10 +11,9 @@ const {
   _create,
   _read,
   _read_id,
-  _read_name,
   _update,
   _delete
-} = require("../controllers/coursesController");
+} = require("../controllers/announcementsController");
 
 /*
  * here are defined roles for each route
@@ -31,8 +29,6 @@ const roles = {
 router.get("/", _read);
 
 router.get("/:id", validateObjectId, _read_id);
-
-router.get("/search/:name", escapeString, _read_name);
 
 /*
  * The user needs
