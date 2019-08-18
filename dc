@@ -1,0 +1,156 @@
+[33mcommit 0b18f4875c3fc7a12b3fa3612006d25b71d0d060[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m)[m
+Author: Bouchebaba Amine <ABouchebaba@outlook.com>
+Date:   Sun Aug 18 16:37:56 2019 +0100
+
+    refixed .gitignore
+
+[33mcommit ad52b83357a03d51caf6a4e7c5420b9afd7d3d70[m
+Author: Bouchebaba Amine <ABouchebaba@outlook.com>
+Date:   Sun Aug 18 16:36:33 2019 +0100
+
+    refixed .gitignore again
+
+[33mcommit bd2b4c142497275924e582436a72351cfd724f0a[m
+Author: Bouchebaba Amine <ABouchebaba@outlook.com>
+Date:   Sun Aug 18 16:33:58 2019 +0100
+
+    refixed .gitignore
+
+[33mcommit ac9b98a75f67e5e04bfce122f1dc56527d0296aa[m
+Author: Bouchebaba Amine <ABouchebaba@outlook.com>
+Date:   Sun Aug 18 16:31:08 2019 +0100
+
+    fixed .gitignore
+
+[33mcommit 775900372ef3932b99025eb39045f7b2ae4bf374[m
+Author: Bouchebaba Amine <ABouchebaba@outlook.com>
+Date:   Sun Aug 18 11:18:11 2019 +0100
+
+    merged with fix_yml
+
+[33mcommit 8c60767d63b731a4b0adbdd0a14b18325fc07b7b[m[33m ([m[1;32mfix_yml[m[33m)[m
+Author: Bouchebaba Amine <ABouchebaba@outlook.com>
+Date:   Sun Aug 18 11:10:12 2019 +0100
+
+    improved structure + announcement API
+
+[33mcommit 2fffb3b797a190aa38397f2794d01bb5a0a9b1d3[m[33m ([m[1;31morigin/fix_yml[m[33m)[m
+Author: Bouchebaba Amine <ABouchebaba@outlook.com>
+Date:   Sun Aug 4 12:31:47 2019 +0100
+
+    added 'debug'  to .travis.yml 3
+
+[33mcommit 83908cc2eb8e6ddabb14d9763f5887fd7026497b[m
+Author: Bouchebaba Amine <ABouchebaba@outlook.com>
+Date:   Sun Aug 4 12:02:22 2019 +0100
+
+    added 'debug'  to .travis.yml 2
+
+[33mcommit fc9e3d0ca35fd0beb1ff15d2b80fc72fab7e0f30[m
+Author: Bouchebaba Amine <ABouchebaba@outlook.com>
+Date:   Sun Aug 4 12:00:00 2019 +0100
+
+    added 'debug'  to .travis.yml
+
+[33mcommit 3d6b84fab843e3b2cf632e0a63a52ca97c1be62c[m
+Author: Bouchebaba Amine <ABouchebaba@outlook.com>
+Date:   Sat Aug 3 16:33:26 2019 +0100
+
+    fix yml
+
+[33mcommit b0269c36db1f3154d86e644e0eb2fc5d3427709b[m
+Author: Bouchebaba Amine <ABouchebaba@outlook.com>
+Date:   Sat Aug 3 16:01:44 2019 +0100
+
+    fixed heroku key in .travis.yml
+
+[33mcommit 05e095b9a2470380396ab59e6d4a3ebf23ceefc4[m
+Author: Bouchebaba Amine <ABouchebaba@outlook.com>
+Date:   Sat Aug 3 11:05:50 2019 +0100
+
+    fixed 'dummy commit to trigger auto deploy
+
+[33mcommit a51c5a7c2bfde7e29f2cb573e72bfb05599875f6[m
+Author: Bouchebaba Amine <ABouchebaba@outlook.com>
+Date:   Sat Aug 3 10:48:11 2019 +0100
+
+    fixed 'roles not provided' error in register route
+
+[33mcommit 8c6521b4ba6fa6ef5797ae4c15c0beb1f70787d7[m
+Author: Bouchebaba Amine <ABouchebaba@outlook.com>
+Date:   Sat Aug 3 10:20:06 2019 +0100
+
+    fixed middleware issues in students routes
+
+[33mcommit 438e592fbe61a78af936b4a5e2f0e07af2ce9f7e[m
+Author: Bouchebaba Amine <ABouchebaba@outlook.com>
+Date:   Fri Aug 2 22:51:49 2019 +0100
+
+    fixed mongodb conn string in test env
+
+[33mcommit 0e5fe9cafaa2c6752fd21d4ec282cb1b65f5a6ed[m
+Author: Bouchebaba Amine <ABouchebaba@outlook.com>
+Date:   Fri Aug 2 20:52:15 2019 +0100
+
+    changed yaml => yml
+
+[33mcommit 97232ced617f0518833ce0db0fb599ad5ded3d0c[m
+Author: Bouchebaba Amine <ABouchebaba@outlook.com>
+Date:   Fri Aug 2 19:53:44 2019 +0100
+
+    dummy change on home
+
+[33mcommit dc865592b0f504b2be44e67f2fac67ddc133e803[m
+Author: Bouchebaba Amine <ABouchebaba@outlook.com>
+Date:   Fri Aug 2 19:51:50 2019 +0100
+
+    added .travis.yaml file with heroku api_key
+
+[33mcommit 0c174381bd2d4db15967804010f366fa16e04eb8[m
+Author: Bouchebaba Amine <ABouchebaba@outlook.com>
+Date:   Fri Aug 2 11:11:51 2019 +0100
+
+    changed welcome message
+
+[33mcommit ef3441e89d1e623c37e22983bda02de786f7f795[m
+Merge: 1f4e222 c857d11
+Author: Bouchebaba Amine <ABouchebaba@outlook.com>
+Date:   Fri Aug 2 11:05:47 2019 +0100
+
+    updated .gitignore
+
+[33mcommit c857d1134cd061909adb233bd0030d0b7d9f95c0[m
+Author: Bouchebaba Amine <fa_bouchebaba@esi.dz>
+Date:   Fri Aug 2 11:58:58 2019 +0200
+
+    Initial commit
+
+[33mcommit 1f4e222956c303e474fe340a434dfd7a256fddff[m[33m ([m[1;31mheroku/master[m[33m)[m
+Author: Bouchebaba Amine <ABouchebaba@outlook.com>
+Date:   Thu Aug 1 23:41:28 2019 +0100
+
+    added support for connexion string to mongoDB
+
+[33mcommit b0f691cdd0ed0389a2442459db23c96744bed28f[m
+Author: Bouchebaba Amine <ABouchebaba@outlook.com>
+Date:   Thu Aug 1 23:32:57 2019 +0100
+
+    added support for connexion string to mongoDB
+
+[33mcommit 158a9ed38d840cc5d75e0711cac7c0a93b9b9c2e[m
+Author: Bouchebaba Amine <ABouchebaba@outlook.com>
+Date:   Thu Aug 1 23:19:02 2019 +0100
+
+    added support for connexion string to mongoDB
+
+[33mcommit 9a6a4fc80712adaf0a71e84a7e1eddef1a60463c[m
+Author: Bouchebaba Amine <ABouchebaba@outlook.com>
+Date:   Thu Aug 1 23:12:09 2019 +0100
+
+    added support for connexion string to mongoDB
+
+[33mcommit e41051490263512fccb52649fdcb9ba8dfe3328d[m
+Author: Bouchebaba Amine <ABouchebaba@outlook.com>
+Date:   Thu Aug 1 22:24:53 2019 +0100
+
+    First commit !
