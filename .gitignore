@@ -5,8 +5,8 @@ npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
 
-public/Uploads
-public/ProfilePictures
+public/Uploads/*
+public/ProfilePictures/*
 # Runtime data
 pids
 *.pid
