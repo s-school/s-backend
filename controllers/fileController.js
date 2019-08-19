@@ -13,9 +13,15 @@ const saveAsync = async function(item, basepath, prefix) {
     const filename = `${prefix}___${item.name}`;
     const filepath = `${basepath}/${filename}`;
 
+    const result = {
+      path: filepath,
+      type: item.type,
+      name: item.name
+    };
+
     item
-      .mv(filepath)
-      .then(() => resolve(filepath))
+      .mv(`public/${filepath}`)
+      .then(() => resolve(result))
       .catch(err => reject(err));
   });
 };

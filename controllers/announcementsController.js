@@ -2,7 +2,8 @@ const { Announcement } = require("../models/announcement");
 const { save } = require("./fileController");
 const _ = require("lodash");
 
-const basePath = "public/Uploads/Ressources";
+// this directory is in /public
+const basePath = "Uploads/Ressources";
 //
 module.exports._create = async (req, res) => {
   // Here user._id is used as prefix for filename ...
